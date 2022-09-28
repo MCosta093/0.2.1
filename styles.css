@@ -14,7 +14,7 @@ body {
   margin: 1;
   font-family: system-ui, sans-serif;
   color: black;
-  background-color: rgba(105, 208, 221, 0.555);
+  background-color: rgba(14, 83, 45, 0.5);
 }
 nav a[aria-current='page'] {
   color: #000;
